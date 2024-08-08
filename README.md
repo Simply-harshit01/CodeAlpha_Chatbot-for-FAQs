@@ -1,4 +1,5 @@
-# Mental Health FAQ Chatbot
+# CodeAlpha_Chatbot-for-FAQs
+
 
 ## Overview
 
@@ -43,13 +44,13 @@ The Mental Health FAQ Chatbot is a simple command-line interface (CLI) applicati
 
 3. **Activate the Virtual Environment:**
 
-## Windows:
+### Windows:
 
      ```bash
       chatbot-env\Scripts\activate
 
 
-## macOS/Linux:
+### macOS/Linux:
 
      ```bash
      source chatbot-env/bin/activate
@@ -91,20 +92,25 @@ Start the chatbot by executing the chatbot.py script:
      python chatbot.py
 
 
-### Using the Chatbot-
+## Using the Chatbot-
 
  **Ask Questions:** Type a question about mental health, and the chatbot will respond with the most relevant answer.
 
   **Exit the Chatbot:** Type exit or quit to end the session.
 
-### Contribution-
+## Contribution-
 
 Contributions are welcome! Please fork the repository and submit a pull request with any improvements or new features.
 
-### Acknowledgments-
+## Acknowledgments-
 
 NLTK Documentation- https://www.nltk.org/
 
 SpaCy Documentation- (https://spacy.io/)
 
 Scikit-Learn Documentation- (https://spacy.io/)
+
+## License-
+
+MIT https://choosealicense.com/licenses/mit/
+
