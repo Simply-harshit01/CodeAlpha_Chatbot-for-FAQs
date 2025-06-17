@@ -1,4 +1,4 @@
-# CodeAlpha_Chatbot-for-FAQs
+# Chatbot-for-FAQs
 
 
 ## Overview
